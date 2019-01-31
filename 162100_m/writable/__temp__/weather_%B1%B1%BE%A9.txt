@@ -1,0 +1,1 @@
+<div id="weather"><a href="weather.php?type=2&city=%B1%B1%BE%A9"><b class="redword">北京</b></a><a href="weather.php?area=china" class="grayword">[换城市]</a>  31℃ 多云 无持续风向≤3级 / 夜间 24℃ 阴 无持续风向≤3级 </div>
